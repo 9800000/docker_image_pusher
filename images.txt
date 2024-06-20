@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin:10.9.6
 linuxserver/qbittorrent:4.6.5
-cloudnas/clouddrive2:0.7.6
+cloudnas/clouddrive2:latest
