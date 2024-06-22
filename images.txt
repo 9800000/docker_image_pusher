@@ -7,4 +7,4 @@ xhofe/alist:latest
 jellyfin/jellyfin:10.9.6
 linuxserver/qbittorrent:4.6.5
 cloudnas/clouddrive2:0.7.3
-
+tinymediamanager/tinymediamanager:latest
